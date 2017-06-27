@@ -23,3 +23,17 @@
   to { transform: rotate(360deg); }
 }*/
 
+body{
+  width:100%;
+  margin: auto;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+.header{
+    background: skyblue;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%
+}
