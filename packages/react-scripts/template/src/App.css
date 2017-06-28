@@ -43,6 +43,7 @@ body{
   float: left;
   font-size: 15px;
   font-family: street_font;
+  padding-left: 25px;
 }
 a{
   text-decoration: none;
@@ -57,14 +58,26 @@ a{
   margin-right: 15px;
   padding-top: 20%
 }
-.main_body{
-  width: 90%;
-  margin-left: 5%;
-    margin-right: 5%;
-  background-color: gray;
-}
+
 @font-face {
     font-family: 'street_font';
     src: url('sff.ttf')
 }
+/* Header CSS End Here */
+.main_body{
+  width: 90%;
+  height: 80vh;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: gray;
+  
+}
+.main_body h1{
+  background: red;
+  color: white;
+  padding-left: 33vw
+  
+}
+
+
 
