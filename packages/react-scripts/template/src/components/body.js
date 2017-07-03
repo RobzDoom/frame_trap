@@ -7,7 +7,7 @@ class Body extends Component {
       <div className="main_body">
         <h1>Choose a Game</h1>
         <div><p>This is where the games will go</p></div>
-        <img src={sflogo} alt="Stret Figher 5" />
+        <img src={sflogo} alt="Stret Figher 5" className="sf5logo" />
 
       </div>
     );
