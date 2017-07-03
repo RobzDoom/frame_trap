@@ -33,7 +33,7 @@ body{
   margin: 0 auto;
   
 }
-.header{
+.header, .footer{
     background:red;
     width: 90%;
     margin-left: 5%;
